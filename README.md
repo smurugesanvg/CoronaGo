@@ -9,8 +9,10 @@ Then copy the files in `dist` folder and paste it in the `Webcontent` folder in 
 ##### Backend
 
 ##### Demo
-Please [click here for the demo.](docs/translations.md)
+Please [click here for the demo.](https://1-0-dot-vg-eva.appspot.com/#/homescreen/homescreendetail)
 ## API Codes needed
+`MAPS_API_KEY` &rarr; replace this variable in `index.html` & `app-constants.ts` with your maps api key.
+Please checkout [this link](https://developers.google.com/maps/documentation/javascript/get-api-key) to find out how to get an api key. 
 
 ## Supported Login Methods
 The application currently supports `Google login` method. But the application is extendable to accomodate login with `email` and `OTP`
@@ -44,15 +46,17 @@ Any user of the application is a patient by default. The other permissions can b
     This view shows the stock in every hospital by each item.
 
 ## Contributing to the Project
-Please refer the CONTRIBUTING.md file for more information
+Please refer the [CONTRIBUTING.md](https://github.com/VanenburgSoftware/CoronaGo/blob/master/CONTRIBUTING.md) file for more information
 
 ## Issue Reporting
-All issues should be reported in the format given in ISSUE_TEMPLATE.md file.
+All issues should be reported in the format given in [ISSUE_TEMPLATE.md](https://github.com/VanenburgSoftware/CoronaGo/blob/master/ISSUE_TEMPLATE.md) file.
 
 ## Code of Conduct
-Any discussion/contribution on the project should follow the code of conduct as documented in CODE_OF_CONDUCT.md file.
+Any discussion/contribution on the project should follow the code of conduct as documented in [CODE_OF_CONDUCT.md](https://github.com/VanenburgSoftware/CoronaGo/blob/master/CODE_OF_CONDUCT.md) file.
 
 ## License
+This project is having Apache License V2.0.  
+Please refer the [LICENSE.md](https://github.com/VanenburgSoftware/CoronaGo/blob/master/LICENSE.md) file for more information.
 
     
 
