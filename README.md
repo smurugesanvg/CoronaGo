@@ -1,9 +1,10 @@
 ## Installation
 
 ##### Frontend    
-Run `npm install`\n
-Run `npm run hmr` &rarr; this will run the app in Hot Module Replacement mode. Configure the port number in `package.json` file. Default Port is 4202
-Run `ng build` or `ng build --prod`. Then copy the files in `dist` folder and paste it in the `Webcontent` folder in the backend
+Run `npm install`  
+Run `npm run hmr` &rarr; this will run the app in Hot Module Replacement mode. Configure the port number in `package.json` file. Default Port is 4202  
+Run `ng build` or `ng build --prod`.   
+Then copy the files in `dist` folder and paste it in the `Webcontent` folder in the backend
 
 ##### Backend
 
